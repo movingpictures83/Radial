@@ -1,0 +1,2 @@
+Prefix plugins/Radial/example/
+Plugin Radial inputfile parameters.hierarchical.txt outputfile Radial
